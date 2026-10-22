@@ -1,2 +1,2 @@
 PID Controllers Code: https://github.com/bu-cds-omds/dx704-examples/blob/main/week08/video_visualizing_pid_controllers.ipynb
-AI Appendix: Claude Sonnet 5 was used in order to better understand certain concepts regarding PID controllers and tabular q-learning. Additionally, Claude Sonnet 5 was utilized to help save time troubleshooting and debugging the errors in my code.
+AI Appendix: Claude Sonnet 5 was used in order to better understand certain concepts regarding PID controllers and tabular q-learning, as well as to better understand the complexities of Part 5: Implement Large Policy. Additionally, Claude Sonnet 5 was utilized to help save time troubleshooting and debugging the errors in my code.
